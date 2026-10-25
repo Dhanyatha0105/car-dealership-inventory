@@ -4,7 +4,7 @@ Raw, unedited transcript of the Claude Code (Claude Opus 5.5) orchestrator sessi
 Exported verbatim from the session log. Tool calls and outputs are omitted; only the human and assistant messages are shown.
 Sub-agent sessions (planner and phase agents) were driven by the orchestrator prompts quoted in the Agent tool inputs below.
 
-> ChatGPT session used for the pre-development audit: _(link to be added by the developer)_
+> **Initial ChatGPT session** (pre-development audit and stack second opinion): https://chatgpt.com/share/6ade2dcb-62a0-83ee-9bd6-cf0fc89d5a35
 
 ## User
 
